@@ -71,7 +71,7 @@ This Tableau dashboard analyzes employee resignation trends using HR data. It he
 
 ---
 
-## Demo Live Dashboard
+## 🔗 Live Demo Dashboard
 - [Dashboard Live](https://public.tableau.com/views/HR_Analytics_17506748515120/HRANALYTICSDASHBOARD?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
