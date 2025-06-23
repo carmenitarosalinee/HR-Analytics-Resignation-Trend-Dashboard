@@ -2,7 +2,8 @@
 
 This Tableau dashboard analyzes employee resignation trends using HR data. It helps identify key metrics like attrition rate, department-wise resignations, age group distributions, job satisfaction, and more.
 
-![Dashboard Screenshot](Assets/HR ANALYTICS DASHBOARD.png)
+![Dashboard Screenshot](![Dashboard Screenshot](Assets/HR%20ANALYTICS%20DASHBOARD.png)
+)
 
 ---
 
