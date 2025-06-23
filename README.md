@@ -7,51 +7,71 @@ This Tableau dashboard analyzes employee resignation trends using HR data. It he
 
 ---
 
-## 📊 Key Insights
+## 📊 HR Analytics: Resignation Trend Dashboard – Key Insights
 
-### 🔢 Overall Metrics
-- **Total Employees:** 1,470  
-- **Total Resigned:** 237  
-- **Attrition Rate:** 16.12%  
-- **Active Employees:** 1,233  
-- **Average Age of Employees:** 37  
-
----
-
-### 🧑‍💼 Department-wise Attrition
-- **Research & Development** has the highest number of resignations: **133 employees (56.12%)**
-- Followed by **Sales**: **92 employees (38.82%)**
-- **Human Resources** has the lowest: **12 employees (5.06%)**
+### 📌 Summary
+- **Total Employees**: 1,470  
+- **Total Resigned Employees**: 237  
+- **Attrition Rate**: 16.12%  
+- **Active Employees**: 1,233  
+- **Average Employee Age**: 37  
 
 ---
 
-### 🧠 Education Field & Resignation
-- Employees from **Life Sciences** show the highest resignation count: **89**
-- Followed by **Medical** (63) and **Marketing** (35)
-- **Human Resources** has the lowest education-based resignation: **7**
+### 🔍 Department-Wise Attrition
+- **Sales Department** has the highest attrition with **133 employees** (56.12% of total attrition).
+- Followed by **Research & Development**: 92 resignations (38.82%).
+- **Human Resources** has the lowest attrition: 12 resignations (5.06%).
 
 ---
 
-### 👶👨‍🦳 Age Distribution
-- Majority of employees are in the **28–36 years** age group
-- Peak employee count in the **32–34** range: **155 employees**
-- Indicates a workforce dominated by employees in their prime career age
+### 🎓 Education Field-Wise Attrition
+- Highest attrition by education background:
+  - **Life Sciences**: 89 resignations
+  - **Medical**: 63 resignations
+  - **Marketing**: 35 resignations
+- Lowest attrition: **Human Resources** (7 resignations)
 
 ---
 
-### 📈 Attrition by Gender & Age Group
-- Age group **25–34** has the highest resignation: **112 employees (18.14%)**
-- Across all age groups, **males resign more than females**
-  - For example, age 25–34: **Male: 69 | Female: 43**
+### 👥 Age Group Insights
+- **Majority of employees** are aged **28–36**.
+- Age group **30–32** has the highest number of employees: **155**.
 
 ---
 
-### 😊 Job Satisfaction & Resignation
-- Most resignations occur at satisfaction levels **3 and 4**
-- Top job roles with highest employee counts:
-  - **Sales Executive**: 326 employees
-  - **Research Scientist**: 292 employees
-  - **Laboratory Technician**: 259 employees
+### 🚻 Gender-Based Attrition
+- **Male** attrition: **150**  
+- **Female** attrition: **87**  
+- Higher attrition observed among **male employees** across most age groups.
+
+#### Attrition by Age & Gender:
+| Age Group | Male | Female | Total |
+|-----------|------|--------|-------|
+| Under 25  | 20   | 18     | 38    |
+| 25–34     | 69   | 43     | 112   |
+| 35–44     | 37   | 14     | 51    |
+| 45–54     | 16   | 9      | 25    |
+| Over 55   | 8    | 3      | 11    |
+
+---
+
+### 📈 Job Satisfaction Analysis
+- **Lowest job satisfaction (Rating 1)** seen in:
+  - **Sales Executive**: 69 employees
+  - **Laboratory Technician**: 56 employees
+- **Highest job satisfaction (Rating 4)** seen in:
+  - **Sales Executive**: 112 employees
+  - **Laboratory Technician**: 80 employees
+- Indicates a **mixed level of satisfaction** even in the most attrited roles.
+
+---
+
+### 📌 Actionable Insights
+- Prioritize retention strategies in the **Sales** and **R&D** departments.
+- Investigate **employee experience** for **Life Sciences** and **Medical graduates**.
+- Focus retention efforts on **25–34** age group and **male employees**.
+- Further analyze **job satisfaction gaps** in high attrition roles such as **Sales Executives** and **Technicians**.
 
 
 ---
