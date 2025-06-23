@@ -7,7 +7,7 @@ This Tableau dashboard analyzes employee resignation trends using HR data. It he
 
 ---
 
-## 📊 HR Analytics: Resignation Trend Dashboard – Key Insights
+## 📊 Key Insights
 
 ### 📌 Summary
 - **Total Employees**: 1,470  
