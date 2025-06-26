@@ -83,6 +83,11 @@ This Tableau dashboard analyzes employee resignation trends using HR data. It he
 
 ---
 
+## Datasets
+The original datasets link: [Kaggle HR Analytics Datasets](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+---
+
 ## 🛠 Tools Used
 - [Tableau Public](https://public.tableau.com/)
 - Microsoft Excel / CSV files
